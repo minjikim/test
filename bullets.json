@@ -1,0 +1,5 @@
+[
+  {"title":"Body Fat","subtitle":"%","ranges":[25,31,35],"measures":[27],"markers":[27]},
+  {"title":"BMI","subtitle":"body mass index","ranges":[19,25,30],"measures":[21],"markers":[21]},
+  {"title":"Calories to Burn","subtitle":"to next obesity level","ranges":[350,500,600],"measures":[300],"markers":[300]}
+]
